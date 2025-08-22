@@ -1,0 +1,42 @@
+[
+    {
+        "activity": "Par o Impar - Declara la variable numero = 7. Imprime 'par' o 'impar' según corresponda.",
+        "solution": "src/ejercicio1.js"
+    },
+    {
+        "activity": "Mayor de dos números - Declara a = 14 y b = 9. Imprime el mayor de ambos.",
+        "solution": "src/ejercicio2.js"
+    },
+    {
+        "activity": "Clasificación de edad - Declara edad = 15. Imprime 'niño' si es 0-12, 'adolescente' si es 13-17, 'adulto' si es 18-64, 'anciano' si es 65 o más.",
+        "solution": "src/ejercicio3.js"
+    },
+    {
+        "activity": "Calculadora básica con switch - Declara a = 10, b = 3, operador = '*'. Imprime el resultado o 'operador no válido'. Si b === 0 y operador === '/' imprime 'indeterminado'.",
+        "solution": "src/ejercicio4.js"
+    },
+    {
+        "activity": "Día laborable o fin de semana - Declara dia = 'sabado'. Imprime 'laborable' para lunes-viernes y 'fin de semana' para sábado o domingo.",
+        "solution": "src/ejercicio5.js"
+    },
+    {
+        "activity": "Nota a letra - Declara nota = 83. Convierte la nota numérica (0-100) a letra: 90-100 → 'A', 80-89 → 'B', 70-79 → 'C', 60-69 → 'D', < 60 → 'F'.",
+        "solution": "src/ejercicio6.js"
+    },
+    {
+        "activity": "Descuento por volumen - Declara precioUnitario = 25, cantidad = 60. Aplica descuento: 0% si cantidad < 10, 10% si 10 ≤ cantidad < 50, 20% si cantidad ≥ 50. Imprime precioFinal redondeado a 2 decimales.",
+        "solution": "src/ejercicio7.js"
+    },
+    {
+        "activity": "Transporte con tarifa reducida - Declara edad = 67, distanciaKm = 120, tarifaBase = distanciaKm * 0.21. Aplica 20% descuento si edad < 18, 40% descuento si edad ≥ 65. Imprime precio final redondeado a 2 decimales.",
+        "solution": "src/ejercicio8.js"
+    },
+    {
+        "activity": "Conversor de notas musicales (switch) - Declara nota = 'LA'. Imprime el número MIDI: DO → 60, RE → 62, MI → 64, FA → 65, SOL → 67, LA → 69, SI → 71. Cualquier otro valor → 'nota desconocida'.",
+        "solution": "src/ejercicio9.js"
+    },
+    {
+        "activity": "Autenticación simple - Declara usuario = 'admin', contrasena = '1234'. Imprime 'acceso concedido' si coincide exactamente, 'acceso denegado' en cualquier otro caso.",
+        "solution": "src/ejercicio10.js"
+    }
+]
